@@ -3,6 +3,9 @@
 **Thanks for**
 - [Fawaz Ahmed](https://github.com/fawazahmed0/quran-api) for providing the Quran API
 
+** API Documentation:**
+- [ApiDog](https://bxe80xpsqm.apidog.io/)
+
 **URL Structure:**
 
 `https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@{apiVersion}/{endpoint}`
